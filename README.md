@@ -1,7 +1,7 @@
 # DPhi-Bootcamp
 
-Collection of solutions to the hands-on exercise of boot camps I joined at [dphi.tech](https://dphi.tech/).
-The boot camps consisted of 10 days (28 February 2022 to 8 February 2022) of coursework, quizzes and a hands-on exercise. Participants who scored an average of 60% and above for quizzes and hands-on exercise were qualified to receive a certification of accomplishment. All of my solutions were written on Google Colab and downloaded as Python files.
+Collection of solutions to the hands-on exercise of beginner level bootcamps I joined at [dphi.tech](https://dphi.tech/).
+The boot camps consisted of 10 days (28 February 2022 to 8 February 2022) of coursework, quizzes and a hands-on exercise. Participants who scored an average of 60% and above for quizzes and hands-on exercise were qualified to receive a certification of accomplishment. All of my solutions were written on Google Colab and downloaded as Python files. 
 
 
 
