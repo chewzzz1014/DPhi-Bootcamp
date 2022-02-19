@@ -6,7 +6,7 @@ The boot camps consisted of 10 days (28 February 2022 to 8 February 2022) of cou
 
 
 
-## Questions of Bootcamps
+## Questions of Hands-on Exercises of Bootcamps
 
 1. [Python Basics for Data Science](https://dphi.tech/bootcamps/introduction-to-python-basics-for-data-science?utm_source=header)
    - Author: Albana Celepija, Vinayak Deshpande
