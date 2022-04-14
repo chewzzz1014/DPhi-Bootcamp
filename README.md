@@ -34,7 +34,7 @@ The boot camps consisted of 10 days (28 February 2022 to 8 February 2022) of cou
 
 # DPhi 5-week Data Science Bootcamp
 
-[5-week Data Science Bootcamp](https://dphi.tech/bootcamps/5-week-data-science-bootcamp?utm_source=header) which consisted of 5 weeks (March 2022 to April 2022) of self-path learning and evaluate based on quizzes and final assessment. Refer the question of final assessment [at DPhi website](https://dphi.tech/learn/5-week-data-science-bootcamp/datathon-final-assignment/1091/ai-challenge) (require enrollment) or [here](https://cdn.jsdelivr.net/gh/chewzzz1014/file/DPhi_5WeekDSBootcamp_final_assessment_question.pdf).
+[5-week Data Science Bootcamp](https://dphi.tech/bootcamps/5-week-data-science-bootcamp?utm_source=header) which consisted of 5 weeks (March 2022 to April 2022) of self-path learning and evaluate based on quizzes and final assessment. Refer the question of final assessment at [DPhi website](https://dphi.tech/learn/5-week-data-science-bootcamp/datathon-final-assignment/1091/ai-challenge) (require enrollment) or [here](https://cdn.jsdelivr.net/gh/chewzzz1014/file/DPhi_5WeekDSBootcamp_final_assessment_question.pdf).
 
 My submission of final assessment consists
 - dphi_bootcamp_final_assessment.py
