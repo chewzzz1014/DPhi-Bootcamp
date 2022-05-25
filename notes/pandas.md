@@ -65,3 +65,23 @@
 ## Sorting
         df_sorted = df.sort_values( by = "colA" )
         df.sort_values( by = "colA", ascending = False) # sort in descending order
+        
+## Renaming
+        # columns
+        df.rename(columns = { "column A":"colA", "column B":"colB" }, inplace = True)
+        
+        # rows
+        df.rename(index = { 0:"zero", 1:"one" }.  inplace = True)
+        
+ ## Missing Data
+        # return a dataframe with true/false only that indicates whether they are null values
+        df.isnull()
+        df.isna()
+        
+        # get number of occurences of null values
+        df.isnull().sum()
+        df.isna().sum()
+        
+        # filling the null values with some other values
+        df.fillna("unknown", inplace = True)
+        df.colA.fillna("Unknown", inplace = True)
