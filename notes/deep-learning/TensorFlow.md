@@ -17,15 +17,15 @@
 - Tensors are `Multi-dimensional arrays with an uniform type (dtype)`.
 - Tensors are immutable. Cant'be updated and can only create new tensor.
 - Rank of tensor based on dimension:
-        - Rank 0 tensor : Scalar
-        - Rank 1 tensor : Vector
-        - Rank 2 tensor : Matrix
-        - Rank >2 : Tensor
+    - Rank 0 tensor : Scalar
+    - Rank 1 tensor : Vector
+    - Rank 2 tensor : Matrix
+    - Rank >2 : Tensor
 
-        # Tensor ( Name, Shape, Data Type)
+## Tensor ( Name, Shape, Data Type)
         Tensor ( "Const: 0", shape=(), dtype=string)
         
- ## Tensor - Rank, Axes and Shape
+## Tensor - Rank, Axes and Shape
  - Rank, axes, shape are tensor attributes
  1. `Rank`:  
      - Number od dimensions present within the tensor.
