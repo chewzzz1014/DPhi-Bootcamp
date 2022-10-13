@@ -1,9 +1,7 @@
  # 1. DPhi-Bootcamps
 
 Collection of solutions to the hands-on exercise of beginner level bootcamps I joined at [dphi.tech](https://dphi.tech/).
-The boot camps consisted of 10 days (28 February 2022 to 8 February 2022) of coursework, quizzes and a hands-on exercise. Participants who scored an average of 60% or above for quizzes and hands-on exercise were qualified to receive a certification of accomplishment. All of my solutions were written on Google Colab and then downloaded as Python files. 
-
-
+The boot camps consisted of 10 days (28 February 2022 to 8 February 2022) of coursework, quizzes and a hands-on exercise. Participants who scored an average of 60% or above for quizzes and hands-on exercise were qualified to receive a certification of accomplishment. 
 
 
 ## Questions of Hands-on Exercises of Bootcamps
